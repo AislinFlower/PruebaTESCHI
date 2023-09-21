@@ -30,7 +30,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
-INSTALLED_APPS = [e
+INSTALLED_APPS = [
     'api',
     'rest_framwork',
     'django.contrib.admin',
